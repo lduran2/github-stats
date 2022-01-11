@@ -140,7 +140,7 @@ releasing work publicly on the Web.
 [generated]: ../../tree/master/generated
 
 [secrets]: ../../settings/secrets/actions
-[workflow-gen-viz]: [../../actions?query=workflow%3A"Generate+Stats+Images"
+[workflow-gen-viz]: ../../actions?query=workflow%3A"Generate+Stats+Images"
 
 [stats-project]: https://github.com/jstrieb/github-stats
 [issue-2]: https://github.com/jstrieb/github-stats/issues/2
