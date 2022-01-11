@@ -136,11 +136,11 @@ releasing work publicly on the Web.
 
 [workflow-main]: ./.github/workflows/main.yml
 
-[my-stats]: ../../blob/master
-[generated]: ../../blob/master/generated
+[my-stats]: ../../
+[generated]: ../../tree/master/generated
 
 [secrets]: ../../settings/secrets/actions
-[workflow-gen-viz]: [../../actions?query=workflow%3A"Generate+Stats+Images"]
+[workflow-gen-viz]: [../../actions?query=workflow%3A"Generate+Stats+Images"
 
 [stats-project]: https://github.com/jstrieb/github-stats
 [issue-2]: https://github.com/jstrieb/github-stats/issues/2
